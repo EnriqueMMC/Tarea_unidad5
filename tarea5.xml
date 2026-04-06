@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tarea5.xsl"?>
+
+<catalogo>
+  <libro categoria="Ciencia Ficción">
+    <titulo>Dune</titulo>
+    <autor>Frank Herbert</autor>
+    <precio>19.95</precio>
+  </libro>
+  <libro categoria="Ciencia Ficción">
+    <titulo>Neuromante</titulo>
+    <autor>William Gibson</autor>
+    <precio>15.50</precio>
+  </libro>
+  <libro categoria="Fantasía">
+    <titulo>El nombre del viento</titulo>
+    <autor>Patrick Rothfuss</autor>
+    <precio>18.00</precio>
+  </libro>
+  <libro categoria="Fantasía">
+    <titulo>El Hobbit</titulo>
+    <autor>J.R.R. Tolkien</autor>
+    <precio>14.99</precio>
+  </libro>
+  <libro categoria="Terror">
+    <titulo>It</titulo>
+    <autor>Stephen King</autor>
+    <precio>22.50</precio>
+  </libro>
+  <libro categoria="Terror">
+    <titulo>El resplandor</titulo>
+    <autor>Stephen King</autor>
+    <precio>20.00</precio>
+  </libro>
+  <libro categoria="No Ficción">
+    <titulo>Sapiens</titulo>
+    <autor>Yuval Noah Harari</autor>
+    <precio>21.00</precio>
+  </libro>
+  <libro categoria="No Ficción">
+    <titulo>El gen egoísta</titulo>
+    <autor>Richard Dawkins</autor>
+    <precio>17.25</precio>
+  </libro>
+  <libro categoria="Drama Histórico">
+    <titulo>Los pilares de la Tierra</titulo>
+    <autor>Ken Follett</autor>
+    <precio>16.90</precio>
+  </libro>
+  <libro categoria="Ciencia Ficción">
+    <titulo>La mano izquierda de la oscuridad</titulo>
+    <autor>Ursula K. Le Guin</autor>
+    <precio>18.80</precio>
+  </libro>
+  <libro categoria="Ciencia Ficción">
+    <titulo>Fundación</titulo>
+    <autor>Isaac Asimov</autor>
+    <precio>17.00</precio>
+  </libro>
+  <libro categoria="Clásico">
+    <titulo>1984</titulo>
+    <autor>George Orwell</autor>
+    <precio>12.50</precio>
+  </libro>
+</catalogo>
