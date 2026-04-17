@@ -3,7 +3,7 @@
 
 
     <!--Plantilla principal-->
-    <xsl:template match="/tarea5.xml">
+    <xsl:template match="/">
         <html>
             <head>
                 <title>Catálogo de libros</title>
@@ -24,6 +24,27 @@
                         display: block;
                         margin: 8px;
                     }
+                    tr:nth-child(even) {
+                        background-color: #f9f9f9;
+                    }
+                    tr:nth-child(odd) {
+                        background-color: #8b8b8b;
+                        color: #f9f9f9;
+                    }
+                    td,th {
+                        padding: 1rem;
+                        text-align: center;
+                        border: 1px black solid;
+                        margin: 0;
+                    }
+                    table {
+                        padding: 1rem;
+                        margin: auto;
+                    }
+                    h1{
+                        text-align: center;
+                    }
+
                 </style>
             </head>
             <body>
